@@ -37,7 +37,7 @@ async def get_adzan(adzan):
 
 CMD_HELP.update(
     {
-        "ezanvakti": "**Plugin : **`azan ka waqt`\
+        "ezanvakti": "**Plugin : **`Time Of Salah`\
     \n\n**Syntax : **`.ezanvakti <city name>`\
     \n**Function : **__Shows you the Islamic prayer times of the given city name__"
     }
