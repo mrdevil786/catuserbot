@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:latest
+FROM mrdevil786/catuserbot:latest
 
 #clonning repo 
 RUN git clone https://github.com/mrdevil786/catuserbot.git /root/userbot
